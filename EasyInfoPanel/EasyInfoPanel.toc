@@ -1,0 +1,13 @@
+## Interface: 120000
+## Interface-Retail: 120000
+## Interface-Classic: 11505
+## Interface-BCC: 20504
+## Title: Easy Info Panel
+## Notes: Lightweight info bar for Midnight and TBC Anniversary. Features intelligent color-coded stats.
+## Author: Pytilix
+## X-License: All Rights Reserved
+## X-Copyright: Copyright (c) 2021-2026 Pytilix. All rights reserved.
+## Version: 1.0
+## SavedVariables: EasyInfoPanelDB
+
+core.lua
